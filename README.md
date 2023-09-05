@@ -1,6 +1,6 @@
 # hello-world
 ## Projeto
-Esta é uma atividade do curso Fullstack da Cubos Academy, onde o objetivo é "printar" a palavra "Hello World" fazendo um "commit" para salvar o arquivo na sua máquina e um "Push" para que o projeto suba e seja integrado a plataforma do GitHub. Bem simples, mas é assim que grandes coisas começam (com "idéias simples").
+Esta é uma atividade do curso "Foco em Back-End" da Cubos Academy, onde o objetivo é "printar" a palavra "Hello World" fazendo um "commit" para salvar o arquivo na sua máquina e um "Push" para que o projeto suba e seja integrado a plataforma do GitHub. Bem simples, mas é assim que grandes coisas começam (com "idéias simples").
 
 ## Técnologia Utilizada
 
